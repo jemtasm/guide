@@ -442,6 +442,8 @@ The introduction paragraph should only be 1-2 sentences long and be a simple exp
 
 Keep paragraphs short (around 1-4 sentences). People are more likely to read several short paragraphs over a wall of text.
 
+Remember readers will be on various devices which will resize text, making even short text appear long in a scroll. 
+
 ### Clarity
 
 Articles should be written with short, clear sentences, and use as little jargon as necessary.
